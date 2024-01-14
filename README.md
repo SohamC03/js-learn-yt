@@ -1,2 +1,2 @@
 # js-learn-yt
-Chai aur code js tuts
+Chai aur code js tutorials
